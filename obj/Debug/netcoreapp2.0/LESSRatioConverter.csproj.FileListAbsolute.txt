@@ -1,0 +1,11 @@
+X:\Dropbox\Cloud\GitHub\LESSRatioConverter\bin\Debug\netcoreapp2.0\LESSRatioConverter.deps.json
+X:\Dropbox\Cloud\GitHub\LESSRatioConverter\bin\Debug\netcoreapp2.0\LESSRatioConverter.runtimeconfig.json
+X:\Dropbox\Cloud\GitHub\LESSRatioConverter\bin\Debug\netcoreapp2.0\LESSRatioConverter.runtimeconfig.dev.json
+X:\Dropbox\Cloud\GitHub\LESSRatioConverter\bin\Debug\netcoreapp2.0\LESSRatioConverter.dll
+X:\Dropbox\Cloud\GitHub\LESSRatioConverter\bin\Debug\netcoreapp2.0\LESSRatioConverter.pdb
+X:\Dropbox\Cloud\GitHub\LESSRatioConverter\obj\Debug\netcoreapp2.0\LESSRatioConverter.csprojResolveAssemblyReference.cache
+X:\Dropbox\Cloud\GitHub\LESSRatioConverter\obj\Debug\netcoreapp2.0\LESSRatioConverter.csproj.CoreCompileInputs.cache
+X:\Dropbox\Cloud\GitHub\LESSRatioConverter\obj\Debug\netcoreapp2.0\LESSRatioConverter.AssemblyInfoInputs.cache
+X:\Dropbox\Cloud\GitHub\LESSRatioConverter\obj\Debug\netcoreapp2.0\LESSRatioConverter.AssemblyInfo.cs
+X:\Dropbox\Cloud\GitHub\LESSRatioConverter\obj\Debug\netcoreapp2.0\LESSRatioConverter.dll
+X:\Dropbox\Cloud\GitHub\LESSRatioConverter\obj\Debug\netcoreapp2.0\LESSRatioConverter.pdb
